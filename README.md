@@ -191,6 +191,7 @@ Know another open-source option? [Open a pull request](CONTRIBUTING.md)!
 ## 🔗 Related Lists
 
 - **[Best Hootsuite Alternatives](https://github.com/Minhasokz2/best-hootsuite-alternatives)** — a curated list of Hootsuite alternatives for scheduling, publishing, engagement and analytics.
+- **[Best Sprout Social Alternatives](https://github.com/Minhasokz2/best-sprout-social-alternatives)** — this list; star it to keep up with new Sprout Social alternatives.
 
 ---
 
