@@ -134,6 +134,7 @@ Keep feeds active with AI, automation and evergreen libraries.
 | [SocialBu](https://socialbu.com) | Automation rules | Trigger-based workflows and bulk actions. |
 | [Missinglettr](https://missinglettr.com) | Blog promotion | Turns blog posts into drip social campaigns. |
 | [StoryChief](https://storychief.io) | Multichannel publishing | Blog, social and employee advocacy together. |
+| [JuzPost](https://www.juzpost.com) | AI assistants & creators | Schedules posts to 11 networks from Claude or the web app; free plan. |
 
 ## 🏢 Agency & Multi-Client Tools
 
