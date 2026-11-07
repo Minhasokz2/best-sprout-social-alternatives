@@ -174,6 +174,7 @@ Specialists that go deep on a single network.
 | [Typefully](https://typefully.com) | X & LinkedIn | Focused writing and thread scheduling. |
 | [TweetDeck / X Pro](https://pro.x.com) | X (Twitter) | Real-time columns and native scheduling. |
 | [YouTube Studio](https://studio.youtube.com) | YouTube | Native uploads, scheduling and analytics. |
+| [SnapDataHub](https://snapdatahub.com/) | Snapchat | Public creator stats and Spotlight view benchmarks by creator size and niche. |
 
 ## 🧠 Open Source & Self-Hosted
 
